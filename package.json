@@ -1,0 +1,17 @@
+{
+  "name": "cool",
+  "version": "1.0.0",
+  "description": "A cool project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt"
+  ],
+  "author": "chainhead",
+  "license": "ISC",
+  "dependencies": {
+    "async-mqtt": "^2.0.0"
+  }
+}
